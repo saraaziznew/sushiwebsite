@@ -27,4 +27,5 @@
 .about-Us__image-sushi2 {
     border-bottom: 8px solid var(--color-creamson);
     background-image: url("../../assets/assets/about_bg2.png");
+    color: var(--color-white);
 }
